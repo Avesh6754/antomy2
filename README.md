@@ -5,6 +5,7 @@ A new Flutter project.
 
 
 <hr>
+<h1 align="center">Task 1</h1>
 <p align ="center">
   
   <a href ="https://github.com/Avesh6754/antomy2/tree/master/lib">
@@ -14,6 +15,7 @@ A new Flutter project.
 <hr>
 
 <hr>
+<h1 align="center">Task 2</h1>
 <p align ="center">
   
   <img src="https://github.com/Avesh6754/antomy2/assets/149478146/3e82ac73-035f-4994-a787-a3fb94795f19" width="22%" Height="35%">
